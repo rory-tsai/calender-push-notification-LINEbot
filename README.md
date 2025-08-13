@@ -92,4 +92,4 @@ TZ=Asia/Taipei
 ---
 
 ## 授權
-本專案依 [MIT License](LICENSE) 授權，歡迎自由使用與修改。
+本專案依 [MIT License] 授權，歡迎自由使用與修改。
